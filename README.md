@@ -1,4 +1,6 @@
-# Dataset of SQL solutions with derived code-complexity metrics (Data in Brief)
+# Dataset of SQL solutions with derived code-complexity metrics (Data in Brief
+
+**DOI:** 10.5281/zenodo.18755578
 
 This repository provides the following files:
 
